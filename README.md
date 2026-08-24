@@ -21,12 +21,12 @@ When I'm not working with data, I enjoy playing guitar and piano, as well as goi
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://pngois.github.io/)
       
-## 🔭 What I'm Currently Working On 
+<!--## 🔭 What I'm Currently Working On 
 
 - **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
-
+-->
 ## 🌱 Currently Learning 
 
 - Python
